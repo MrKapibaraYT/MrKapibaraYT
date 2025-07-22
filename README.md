@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, welcome on my profile I'm Kapibara</h1>
 <h3 align="center">Junior, funny and fast learning developer from Poland</h3>
 
-- 🔭 I’m currently working on **Flutter health app for public and private healthcare with AI/ML**
-
 - 🌱 I’m currently learning **Android (to master), Kotlin (to master), Java (to master), Python (to master) later: PHP and (probably) C#**
 
 - 📫 How to reach me **kapibarayt3@gmail.com**
